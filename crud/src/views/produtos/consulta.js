@@ -27,7 +27,7 @@ class ConsultaProdutos extends React.Component {
         return (
             <div className="card">
                 <div className="card-header">
-                    Cadastro de Produto
+                    Consulta de Produto
                 </div>
                 <div className="card-body">
 
